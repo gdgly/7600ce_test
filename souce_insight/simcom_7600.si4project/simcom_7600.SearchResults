@@ -1,0 +1,3 @@
+----  process_simcom_ind_message Matches (2 in 1 files) ----
+simcom_7600.rpt (simcom_7600.si4project) line 5380 :     process_simcom_ind_message                                                          (Function at line 27-210)
+simcom_7600.rpt (simcom_7600.si4project) line 13064 :     process_simcom_ind_message                                                          (Function Prototype at line 65-65)
